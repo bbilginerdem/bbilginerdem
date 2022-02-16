@@ -22,3 +22,10 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kihlaj&show_icons=true&theme=cobalt&title_color=fd6d6d&text_color=ffffff&locale=en" alt="kihlaj" />
 </div>
 <div class="margin-top:20px"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kihlaj&theme=dark" alt="kihlaj" /></div>
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kihlaj&show_icons=true&theme=tokyonight&title_color=a271fe&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="kihlaj" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kihlaj&show_icons=true&theme=cobalt&title_color=fd6d6d&text_color=ffffff&locale=en" alt="kihlaj" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kihlaj&theme=dark" alt="kihlaj" /></p>
