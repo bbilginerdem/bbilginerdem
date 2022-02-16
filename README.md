@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kihlaj&label=Profile%20views&color=8eec94&style=flat" alt="kihlaj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kihlaj" alt="kihlaj" /></a> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kihlaj&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
