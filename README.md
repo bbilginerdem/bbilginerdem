@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilgin</h1>
 <h3 align="center">A passionate frontend developer & mobile developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kihlaj&label=Profile%20views&color=8eec94&style=flat" alt="kihlaj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kihlaj&label=Profile%20views&color=00fbff&style=plastic" alt="kihlaj" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kihlaj&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
