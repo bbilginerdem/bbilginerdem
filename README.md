@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Bilgin</h1>
 <h3 align="center">A passionate frontend developer & mobile developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kihlaj&label=Profile%20views&color=0e75b6&style=flat" alt="kihlaj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kihlaj&label=Profile%20views&color=8eec94&style=flat" alt="kihlaj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kihlaj" alt="kihlaj" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/bbilginerdem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bbilginerdem" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/jihlak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jihlak" height="30" width="40" /></a>
 <a href="https://instagram.com/kihlajpoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kihlajpoi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bbilgin_erdem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bbilgin_erdem" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kihlaj&show_icons=true&locale=en&layout=compact" alt="kihlaj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kihlaj&show_icons=true&locale=en" alt="kihlaj" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kihlaj&show_icons=true&title_color=dd5a5a&text_color=e0dcdc&locale=en" alt="kihlaj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kihlaj&" alt="kihlaj" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kihlaj&theme=dark" alt="kihlaj" /></p>
