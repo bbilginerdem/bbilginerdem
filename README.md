@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilgin</h1>
-<h3 align="center">A passionate frontend developer & mobile developer from Turkey</h3>
+<h3 align="center">A passionate frontend developer & mobile developer from Turkey. I graduated from Physics department of METU. I focused on computational physics and from that knowledge transition myself to software development. Mostly, I have been improving myself and creating project in react and react native. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kihlaj&label=Profile%20views&color=00fbff&style=plastic" alt="kihlaj" /> </p>
 
