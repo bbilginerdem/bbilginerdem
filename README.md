@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilgin</h1>
 <h3 align="center">A passionate frontend developer & mobile developer. I graduated from Physics department of METU. Mostly, I have been improving myself and creating project in react, react native and node.js. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kihlaj&label=Profile%20views&color=00fbff&style=plastic" alt="kihlaj" /> </p>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kihlaj&theme=onedark)](https://github.com/kihlaj)
 
@@ -20,3 +20,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kihlaj&show_icons=true&theme=synthwave&title_color=ba56f0&text_color=ffffff&hide_border=true&locale=en" alt="kihlaj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kihlaj&theme=dark" alt="kihlaj" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kihlaj&label=Profile%20views&color=00fbff&style=plastic" alt="kihlaj" /> </p>
