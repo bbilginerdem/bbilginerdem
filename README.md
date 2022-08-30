@@ -19,7 +19,7 @@
 <br>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kihlaj&show_icons=true&theme=synthwave&title_color=a271fe&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="kihlaj" />
-<img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=kihlaj&show_icons=true&theme=synthwave&title_color=ba56f0&text_color=ffffff&hide_border=true&locale=en" alt="kihlaj" /></p>
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=kihlaj&show_icons=true&theme=synthwave&title_color=ba56f0&text_color=ffffff&hide_border=true&locale=en" alt="kihlaj" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kihlaj&theme=dark" alt="kihlaj" /></p>
 
