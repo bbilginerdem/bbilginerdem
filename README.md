@@ -16,13 +16,12 @@
 <a href="https://stackoverflow.com/users/5429601/jihlak target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jihlak" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bbilgin_erdem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bbilgin_erdem" height="30" width="40" /></a>
 </p>
-<br>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kihlaj&show_icons=true&theme=synthwave&title_color=a271fe&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="kihlaj" />
-<img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=kihlaj&show_icons=true&theme=synthwave&title_color=ba56f0&text_color=ffffff&hide_border=true&locale=en" alt="kihlaj" /></p>
-
+<br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kihlaj&theme=dark" alt="kihlaj" /></p>
-
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kihlaj&show_icons=true&theme=dracula&title_color=a271fe&text_color=ffffff&hide_border=true&locale=en&layout=compact&border_radius=25" alt="kihlaj" />
+  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=kihlaj&show_icons=true&theme=dracula&title_color=ba56f0&text_color=ffffff&hide_border=true&locale=en&border_radius=25" alt="kihlaj" /></p>
+<br/>
 <p align="center">
   <img alt="GitHub Activity Graph" width="96%" src="https://activity-graph.herokuapp.com/graph?username=kihlaj&theme=react-light&area=true&hide_border=false&custom_title=Contribution%20Graph">
 </p>
