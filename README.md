@@ -17,7 +17,9 @@
 <a href="https://www.hackerrank.com/bbilgin_erdem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bbilgin_erdem" height="30" width="40" /></a>
 </p>
 <br/>
+<br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kihlaj&theme=dark" alt="kihlaj" /></p>
+<br />
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kihlaj&show_icons=true&theme=dracula&title_color=a271fe&text_color=ffffff&hide_border=true&locale=en&layout=compact&border_radius=25" alt="kihlaj" />
   <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=kihlaj&show_icons=true&theme=dracula&title_color=ba56f0&text_color=ffffff&hide_border=true&locale=en&border_radius=25" alt="kihlaj" /></p>
