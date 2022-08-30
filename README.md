@@ -23,6 +23,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kihlaj&label=Profile%20views&color=00fbff&style=plastic" alt="kihlaj" /> </p>
 
-<div align="center>
+<div align="center">
   <img alt="GitHub Activity Graph" width="96%" src="https://activity-graph.herokuapp.com/graph?username=kihlaj&theme=react-light&area=true&hide_border=false&custom_title=Contribution%20Graph">
 </div>
