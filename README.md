@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilgin</h1>
-<h3 align="center">A passionate frontend developer & mobile developer. I graduated from Physics department of METU. Mostly, I have been improving myself and creating project in react, react native and node.js. </h3>
+<h3 align="center">A passionate frontend developer & mobile developer. I graduated from Physics department of METU. Mostly, I have been improving myself and creating project in reacts, react native and node.js. </h3>
 
 <br/>
 <p align="center">
