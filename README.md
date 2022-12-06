@@ -21,8 +21,8 @@
 <br />
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kihlaj&show_icons=true&theme=dracula&title_color=a271fe&text_color=ffffff&hide_border=true&locale=en&layout=compact&border_radius=25" alt="kihlaj" />
-  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=kihlaj&show_icons=true&theme=dracula&title_color=ba56f0&text_color=ffffff&hide_border=true&locale=en&border_radius=25" alt="kihlaj" /></p>
+<!--   <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=kihlaj&show_icons=true&theme=dracula&title_color=ba56f0&text_color=ffffff&hide_border=true&locale=en&border_radius=25" alt="kihlaj" /></p>
 <br/>
 <p align="center">
   <img alt="GitHub Activity Graph" width="96%" src="https://activity-graph.herokuapp.com/graph?username=kihlaj&theme=react-light&area=true&hide_border=false&custom_title=Contribution%20Graph">
-</p>
+</p> -->
