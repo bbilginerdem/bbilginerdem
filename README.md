@@ -1,7 +1,7 @@
 ### Hi, I'm Bilgin
 
-- 🖥️ I've been coding in JS primarily for over 4 years
-- 🦀 I’m learning Rust and Nest.js at the moment
+- 🖥️ I've been coding in JS primarily for over 3 years
+- 🦀 I’m learning Node and Nest.js at the moment
 
 <a href="https://leetcode.com/bbilginerdem/" rel="some text">![Stats for leetcode](https://leetcard.jacoblin.cool/bbilginerdem?theme=nord&font=DM%20Sans&extension=activity)</a>
 <p>
